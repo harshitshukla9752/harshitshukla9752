@@ -57,36 +57,47 @@ I love building scalable systems using **Java + Spring Boot** and intelligent ap
 
 ---
 
-## 📌 Featured Projects (Pinned)
+## 📌 Featured Projects
 
-### 🛒 **AgroCart — Full-Stack E-Commerce Platform**  
-**Tech:** Spring Boot, MongoDB, React (Vite), Tailwind, JWT, Razorpay  
-- Led team of 3 developers.  
-- Built secure backend APIs + payment gateway integration.  
-- Improved API response time by 35%.  
-🔗 Repo: *Add link here*
+### 🛒 AgroCart – Full-Stack E-Commerce Platform  
+**Tech:** Spring Boot, MongoDB, React (Vite), Tailwind CSS, JWT, Razorpay  
+A production-grade marketplace with cart, checkout, secure authentication and payment integration.  
+**Highlights:**  
+- Led a team of 3 developers  
+- 35% faster API performance through DB optimization  
+- Razorpay integration for real payments  
+- Clean layered backend architecture
 
 ---
 
-### 🎧 **EchoBeat — Music Streaming Platform**  
+### 🎧 EchoBeat – Music Streaming Platform  
 **Tech:** Spring Boot, MongoDB, JWT, AWS  
-- Spotify-like music platform with playlists & playback.  
-- Secure token authentication & AWS deployment.  
-🔗 Repo: *Add link here*
+A Spotify-style music streaming app with playback, playlists, and secure token-based authentication.  
+**Highlights:**  
+- REST APIs for music, playlists, users  
+- JWT authentication and role-based access  
+- Backend deployed on AWS (EC2 + S3)
 
 ---
 
-### 🤖 **Sentiment Analysis Tool (NLP Project)**  
+### 🤖 Sentiment Analysis Tool (NLP Project)  
 **Tech:** Python, NLTK, TextBlob  
-- Analyzes sentiment of reviews (positive/negative).  
-🔗 Repo: *Add link here*
+A machine learning project that classifies text reviews as positive or negative using NLP.  
+**Highlights:**  
+- Data preprocessing + sentiment pipeline  
+- Model inference script  
+- Clean and minimal implementation
 
 ---
 
-### 🏠 **HomeFix — Home Services Platform**  
-**Tech:** PHP, MySQL  
-- Urban Company–style service booking platform.  
-🔗 Repo: *Add link here*
+### 🏋️‍♂️ AI Fitness Coach (Computer Vision Project)  
+**Tech:** Python, OpenCV, Mediapipe, ML  
+AI-based fitness monitoring tool that detects posture, counts reps, and gives feedback using computer vision.  
+**Highlights:**  
+- Pose detection using OpenCV + Mediapipe  
+- Repetition counting logic  
+- Real-time camera processing  
+- Strong ML + CV + Python project
 
 ---
 
@@ -109,8 +120,8 @@ I love building scalable systems using **Java + Spring Boot** and intelligent ap
 
 ## 📫 Contact Me  
 📧 Email: **harshitshukla.9752@gmail.com**  
-🔗 LinkedIn: *add link*  
-🌐 Portfolio: *add link*  
+🔗 LinkedIn: *[add link](https://www.linkedin.com/in/harshit-shukla9752/)*  
+🌐 Portfolio: *[add link](https://harshitshuklaportfolio.netlify.app/)*  
 
 ---
 
