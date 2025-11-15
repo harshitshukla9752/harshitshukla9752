@@ -120,8 +120,8 @@ AI-based fitness monitoring tool that detects posture, counts reps, and gives fe
 
 ## 📫 Contact Me  
 📧 Email: **harshitshukla.9752@gmail.com**  
-🔗 LinkedIn: *[add link](https://www.linkedin.com/in/harshit-shukla9752/)*  
-🌐 Portfolio: *[[add link](https://harshitshuklaportfolio.netlify.app/)](https://harshitshuklaportfolio.netlify.app/)*  
+🔗 LinkedIn: *[(https://www.linkedin.com/in/harshit-shukla9752/)]*  
+🌐 Portfolio: *[(https://harshitshuklaportfolio.netlify.app/)]*  
 
 ---
 
